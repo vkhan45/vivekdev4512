@@ -1,0 +1,9 @@
+{
+	"name": "vivekdevdf4512",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44f8b5af-417b-4fd3-b20a-2bf2af369be6",
+		"tenantId": "89550cc2-fb4a-4ad0-a313-d9ceb1ee70a9"
+	}
+}
